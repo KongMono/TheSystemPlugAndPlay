@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- color -->
+    <color name="cPrimary">#FFFFFF</color>
+    <color name="cPrimaryDark">#FFFFFF</color>
+    <color name="cAccent">#000000</color>
+
+    <color name="white">#FFFFFF</color>
+
+</resources>

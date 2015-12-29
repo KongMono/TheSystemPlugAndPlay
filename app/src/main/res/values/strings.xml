@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<string name="app_displayname">TheSystemPlug&amp;Play</string>
+<string name="app_version">1.0.0</string>
+<string name="cache_name">TheSystemPlug&amp;Play</string>
+<string name="device">Android</string>
+<string name="action_settings">Settings</string>
+
+<!-- Close Dialog -->
+<string name="exit_alert">Do you want to exit?</string>
+<string name="button_ok">OK</string>
+<string name="button_cancel">Cancel</string>
+
+<string name="cache_timeout">3600000</string>
+<!-- numberic pageindicator -->
+
+<string name="sb1">DASHBOARD</string>
+<string name="sb2">CREATE MEMBER</string>
+<string name="sb4">EXTRA</string>
+<string name="sb5">HOW TO</string>
+<string name="sb6">INSURANCE</string>
+<string name="sb7">SALE LIST</string>
+<string name="sb8">BUY LIST</string>
+<string name="sb9">ORDER PACKAGE</string>
+<string name="sb10">LOG OUT</string>
+
+<string name="share">Share</string>
+
+<string-array name="tabs">
+    <item>ดูหนัง</item>
+    <item>ข้อมูล</item>
+</string-array>
+
+<string-array name="tabs_other">
+    <item>ดูตัวอย่างหนัง</item>
+    <item>ข้อมูล</item>
+</string-array>
+
+
+<string name="sb12_th">ตั้งค่าการใช้งาน</string>
+<string name="sb12_en">Setting</string>
+
+<string name="header_settingpush_th">การแจ้งเตือน</string>
+<string name="language_th">ภาษา</string>
+<string name="notification_news_th">รับข่าวสารทั่วไป</string>
+<string name="notification_series_th">รับข่าวสารหนังซีรี่ย์มาใหม่</string>
+
+<string name="header_settingpush_en">Notification</string>
+<string name="language_en">Language</string>
+<string name="notification_news_en">News</string>
+<string name="notification_series_en">Movie / Series</string>
+
+<string name="TH">ภาษาไทย ></string>
+<string name="EN">English ></string>
+
+
+<string name="watchnow">Watch Now</string>
+
+<string name="all">ทั้งหมด ></string>
+
+<string name="allchannel">ช่องทั้งหมด</string>
+
+<string name="error_title">Something went wrong!</string>
+<string name="error_occurred">An error occurred. We\'re deeply sorry.</string>
+<string name="error_details">Error details:</string>
+<string name="unknown_exception">Unknown exception</string>
+<string name="restart_app">Restart app</string>
+<string name="close_app">Close app</string>
+
+
+<!-- We define some custom strings for the default error activity -->
+<!-- This only applies when using the default error activity, of course! -->
+<!-- To see them, disable the custom error activity in SampleCrashableApplication -->
+<string name="customactivityoncrash_error_activity_error_occurred_explanation">An error occurred in this sample app. This is the default error activity with customized strings.</string>
+<string name="customactivityoncrash_error_activity_unknown_exception">No stacktrace available!</string>
+<string name="customactivityoncrash_error_activity_restart_app">Restart now</string>
+<string name="customactivityoncrash_error_activity_close_app">Close now</string>
+<string name="customactivityoncrash_error_activity_error_details">Error information</string>
+<string name="customactivityoncrash_error_activity_error_details_title">Error information</string>
+<string name="customactivityoncrash_error_activity_error_details_close">OK</string>
+
+</resources>
